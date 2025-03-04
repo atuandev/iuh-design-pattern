@@ -1,5 +1,6 @@
 package singleton;
 
+// 21129321 - Nguyen Phan Anh Tuan
 public class ThreadSafeSingleton {
     private static ThreadSafeSingleton instance;
 
