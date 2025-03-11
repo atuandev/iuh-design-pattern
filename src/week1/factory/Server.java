@@ -1,4 +1,4 @@
-package factory;
+package week1.factory;
 
 // 21129321 - Nguyen Phan Anh Tuan
 public class Server extends Computer {

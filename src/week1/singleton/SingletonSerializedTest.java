@@ -1,4 +1,4 @@
-package singleton;
+package week1.singleton;
 
 import java.io.*;
 

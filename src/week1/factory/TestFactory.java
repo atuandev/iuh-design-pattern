@@ -1,4 +1,4 @@
-package factory;
+package week1.factory;
 
 public class TestFactory {
     public static void main(String[] args) {

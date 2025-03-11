@@ -1,4 +1,4 @@
-package singleton;
+package week1.singleton;
 
 // 21129321 - Nguyen Phan Anh Tuan
 public class LazyInitializedSingleton {

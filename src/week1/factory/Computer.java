@@ -1,4 +1,4 @@
-package factory;
+package week1.factory;
 
 public abstract class Computer {
     public abstract String getRAM();
